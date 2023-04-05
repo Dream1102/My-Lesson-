@@ -1,0 +1,15 @@
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.AssemblyInfo.cs
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\bin\Debug\net7.0\XmlPractise.exe
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\bin\Debug\net7.0\XmlPractise.deps.json
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\bin\Debug\net7.0\XmlPractise.runtimeconfig.json
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\bin\Debug\net7.0\XmlPractise.dll
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\bin\Debug\net7.0\XmlPractise.pdb
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.dll
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\refint\XmlPractise.dll
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.pdb
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\XmlPractise.genruntimeconfig.cache
+C:\Users\HP VICTUS\Desktop\XmlPractise\XmlPractise\obj\Debug\net7.0\ref\XmlPractise.dll

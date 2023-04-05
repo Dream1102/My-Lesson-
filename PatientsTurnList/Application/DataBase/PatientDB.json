@@ -1,0 +1,32 @@
+[
+  {
+    "TurnNumber": 2,
+    "ID": "5616b1c6-2fc6-11ec-8d3d-0242ac130003",
+    "Name": "John Doe",
+    "Address": "123 Main St.",
+    "Age": 35,
+    "Gender": 0,
+    "BirthDate": "1987-01-01T00:00:00",
+    "IlnessType": 0
+  },
+  {
+    "TurnNumber": 1,
+    "ID": "5616b1c6-2fc6-11ec-8d3d-0242ac130004",
+    "Name": "Jane Doe",
+    "Address": "456 Elm St.",
+    "Age": 42,
+    "Gender": 1,
+    "BirthDate": "1980-01-01T00:00:00",
+    "IlnessType": 1
+  },
+  {
+    "TurnNumber": 3,
+    "ID": "5616b1c6-2fc6-11ec-8d3d-0242ac130005",
+    "Name": "Bob Smith",
+    "Address": "789 Oak St.",
+    "Age": 28,
+    "Gender": 0,
+    "BirthDate": "1994-01-01T00:00:00",
+    "IlnessType": 2
+  }
+]

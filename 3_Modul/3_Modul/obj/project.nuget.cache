@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uKExSxS/QXMTNwId8Fqjz6pd8+bbLVvy6307YWrpKcJ//CP4aSfbTL3Qg/FyUqJVtVx4KLULvtzoSREUtJPLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP VICTUS\\Desktop\\ExampleSolutionArchitecture\\3_Modul\\3_Modul\\3_Modul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP VICTUS\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

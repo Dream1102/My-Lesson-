@@ -1,0 +1,15 @@
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\bin\Debug\net7.0\ExampleSolutionArchitectureOOP.exe
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\bin\Debug\net7.0\ExampleSolutionArchitectureOOP.deps.json
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\bin\Debug\net7.0\ExampleSolutionArchitectureOOP.runtimeconfig.json
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\bin\Debug\net7.0\ExampleSolutionArchitectureOOP.dll
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\bin\Debug\net7.0\ExampleSolutionArchitectureOOP.pdb
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.AssemblyInfo.cs
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.dll
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\refint\ExampleSolutionArchitectureOOP.dll
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.pdb
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ExampleSolutionArchitectureOOP.genruntimeconfig.cache
+C:\Users\HP VICTUS\Desktop\ExampleSolutionArchitectureOOP\ExampleSolutionArchitectureOOP\obj\Debug\net7.0\ref\ExampleSolutionArchitectureOOP.dll

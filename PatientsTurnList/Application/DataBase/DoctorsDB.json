@@ -1,0 +1,46 @@
+[
+  {
+    "Speciality": 0,
+    "ExperienceTime": 0,
+    "ID": "7a264046-90dd-404f-b4a0-f20d843f1430",
+    "Name": "Javlon",
+    "Address": "Bukhara",
+    "Age": 18,
+    "Gender": 0,
+    "BirthDate": "2023-02-28T18:36:32.3379638+05:00",
+    "WorkTime": 1
+  },
+  {
+    "Speciality": 0,
+    "ExperienceTime": 0,
+    "ID": "83152486-de1a-4788-b3d7-f698d394ebd9",
+    "Name": "Javlon",
+    "Address": "Bukhara",
+    "Age": 18,
+    "Gender": 0,
+    "BirthDate": "2023-02-28T18:36:39.396604+05:00",
+    "WorkTime": 2
+  },
+  {
+    "Speciality": 0,
+    "ExperienceTime": 0,
+    "ID": "d80d7525-eaf2-4b98-988f-4864d34310a5",
+    "Name": "Javlon",
+    "Address": "Bukhara",
+    "Age": 18,
+    "Gender": 0,
+    "BirthDate": "2023-02-28T18:36:45.7734301+05:00",
+    "WorkTime": 8
+  },
+  {
+    "Speciality": 0,
+    "ExperienceTime": 0,
+    "ID": "9b1d1c74-0423-498d-ae7b-42405932e208",
+    "Name": "Javlon",
+    "Address": "Bukhara",
+    "Age": 18,
+    "Gender": 0,
+    "BirthDate": "2023-02-28T18:36:51.3200056+05:00",
+    "WorkTime": 5
+  }
+]

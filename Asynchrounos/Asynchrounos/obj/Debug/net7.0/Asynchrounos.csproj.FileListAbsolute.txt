@@ -1,0 +1,15 @@
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\bin\Debug\net7.0\Asynchrounos.exe
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\bin\Debug\net7.0\Asynchrounos.deps.json
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\bin\Debug\net7.0\Asynchrounos.runtimeconfig.json
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\bin\Debug\net7.0\Asynchrounos.dll
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\bin\Debug\net7.0\Asynchrounos.pdb
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.AssemblyInfoInputs.cache
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.AssemblyInfo.cs
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.dll
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\refint\Asynchrounos.dll
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.pdb
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\Asynchrounos.genruntimeconfig.cache
+C:\Users\HP VICTUS\Desktop\Asynchrounos\Asynchrounos\obj\Debug\net7.0\ref\Asynchrounos.dll
